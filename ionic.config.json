@@ -1,0 +1,7 @@
+{
+  "name": "cap-gmaps-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

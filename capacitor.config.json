@@ -1,0 +1,13 @@
+{
+  "appId": "com.cap.gmaps.demo",
+  "appName": "cap-gmaps-demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
